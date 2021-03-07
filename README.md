@@ -15,4 +15,6 @@
     
 
 
-https://github.com/PJ427/Cryptocurrencies/blob/main/Images/3D_scatter.PNG
+<p align="center"><img src=https://github.com/PJ427/Cryptocurrencies/blob/main/Images/3D_scatter.PNG></p>
+
+<p align="center"><img src=https://github.com/PJ427/Cryptocurrencies/blob/main/Images/hv_scatter.PNG></p>
