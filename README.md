@@ -12,7 +12,13 @@
     
 ##  Summary
 
+    Our analysis shows that there are a couple outliers that may need to be removed to get a better analysis
+    of the data.  The BitTorrent currency is in it own class and is leading the pack in supply and mined.  The
+    TurtleCoin currency, class 2, has a supply double and triples other class 2 coins.  These two should be
+    removed and the analysis re-ran.
     
+    The vast majority of other currencies are quite similar, almost equal, with a few that do better than the
+    others.
 
 
 <p align="center"><img src=https://github.com/PJ427/Cryptocurrencies/blob/main/Images/3D_scatter.PNG></p>
